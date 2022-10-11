@@ -1,0 +1,26 @@
+{
+  "previousWork": [
+    {
+      "id": 1,
+      "company": "Công ty TNHH 1 thành viên",
+      "position": "Quản lý",
+      "phone": "0332745834",
+      "address": "Hoàng Mai, Hà Nội",
+      "salary": "10000000",
+      "time": "28/10/2010 - 15/02/2018",
+      "rank": "1",
+      "reason": "Địa lý"
+    },
+    {
+      "id": 2,
+      "company": "Công ty TNHH 2 thành viên",
+      "position": "HR",
+      "phone": "",
+      "address": "Hoàng Mai, Hà Nội",
+      "salary": "10000000",
+      "time": "28/10/2010 - 15/02/2018",
+      "rank": "",
+      "reason": ""
+    }
+  ]
+}
